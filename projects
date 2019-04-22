@@ -1,0 +1,33 @@
+<html><head>
+    <title> Projects </title>
+  </head>
+<body>
+    <h1>Database Management Project, MIS 3353</h1>
+    
+      <ul>
+	<li>Given a company's information and created conceptual, logical, and physical designs, as well as implementation of the designs into a database. </li>
+  <li> Click to view the project submission below.</li>
+  <a title="Group Project-Cereal Killers" href="https://margaretmedellin.files.github.io/2019/02/margaret-medellin.pdf">Margaret Medellin</a>
+</ul>
+<em></em>
+
+  
+	<div id="box1">
+	<nav>
+	<div class="link-container">
+		<ul>
+			<li> 
+			<a href="https://margaretmedellin.github.io/about.html">About</a>
+			</li>
+			<li><a href="https://margaretmedellin.github.io/projects" target="_blank">Projects</a>
+			</li>
+			<li><a href="https://margaretmedellin.github.io/skillSets" target="_blank">Skill Sets</a>
+			</li><li><a href="https://margaretmedellin.github.io/history" target="_blank">Employment History</a>
+			</li>
+		</ul></div>
+		
+
+	</nav>
+	</div>
+
+</div></body></html>
